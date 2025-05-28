@@ -40,8 +40,8 @@
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Proxmox_logo.png" alt="Proxmox" style="height: 32px; margin-right: 10px;" />
-</div>
+ <img src="https://seeklogo.com/images/P/proxmox-logo-498509E4E5-seeklogo.com.png" alt="Proxmox" style="height: 32px; margin-right: 10px;" />
+ </div>
 
 <!-- Languages -->
 
